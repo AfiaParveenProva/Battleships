@@ -182,30 +182,6 @@ Since CodeRunner tests submissions automatically with a wide range of inputs (in
 
 ---
 
-## 📋 Assessment Details
-
-| Detail | Value |
-|--------|-------|
-| Module | CS1702 Introductory Programming |
-| Task | Task #2 |
-| Contribution | 60% of module grade |
-| Marked out of | 15 marks (bonus up to 20, capped at 15) |
-| Assessment type | CodeRunner (automated testing) |
-| Examination period | 29 April – 17 May 2024 |
-
-### Grading Scale
-
-| Mark (%) | Grade |
-|----------|-------|
-| 70%+ | A (A− to A*) |
-| 60–69% | B |
-| 50–59% | C |
-| 40–49% | D |
-| 30–39% | E |
-| < 30% | F |
-
----
-
 ## 📚 References
 
 - [Battleships – Wikipedia](https://en.wikipedia.org/wiki/Battleship_(game))
